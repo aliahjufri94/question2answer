@@ -373,7 +373,7 @@ function qa_get_public_from_userids($userids)
 {
 	//	Until you edit this function, always return null
 
-	return null;
+	return;
 
 	/*
 		Example 1 - suitable if:
